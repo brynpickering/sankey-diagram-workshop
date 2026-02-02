@@ -13,6 +13,8 @@ This workshop is broken down into 3 parts to get you familiar with building Sank
 - [Part 2a - `floweaver` advanced tutorials for Sankeys in Python](./2a-floweaver-advanced.ipynb)
 - [Part 3 - `plotly` tutorials for Sankeys in Python](./3-plotly.ipynb)
 
+Much of the content of this workshop is based on prior tutorials prepared by the [Resource Efficiency Collective](https://github.com/Resource-Efficiency-Collective).
+
 ## What is a Sankey diagram?
 
 Sankey diagrams are a way to visualise flows between states in a system.

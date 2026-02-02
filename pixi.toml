@@ -7,7 +7,7 @@ authors = ["Bryn Pickering <17178478+brynpickering@users.noreply.github.com>"]
 channels = ["conda-forge"]
 name = "sankey-diagram-workshop"
 platforms = ["osx-arm64", "linux-64", "win-64"]
-version = "0.1.0"
+version = "etb4-2026"
 
 [tasks]
 
