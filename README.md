@@ -57,7 +57,7 @@ With VSCode set up, you can "clone" (i.e. copy) this repository to your device:
 You can run your notebooks from inside VSCode.
 Just select a notebook in the file explorer and activate the kernel:
 
-![](./static/set-up-kernel.mp4)
+![](./static/set-up-kernel.gif)
 
 >[!NOTE]
 >The first time you run a Python command, you might find it takes a long time.
