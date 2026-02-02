@@ -5,7 +5,7 @@ SPDX-PackageDownloadLocation = "https://github.com/brynpickering/sankey-diagram-
 
 [[annotations]]
 path = [
-    "example_data/*",
+    "tutorials/example_data/*",
     "static/*",
 ]
 SPDX-FileCopyrightText = "Bryn Pickering"
@@ -20,16 +20,16 @@ SPDX-License-Identifier = "CC0-1.0"
 
 [[annotations]]
 path = [
-    "1-SankeyMATIC.ipynb",
-    "2-floweaver.ipynb",
-    "2a-floweaver-advanced.ipynb"
+    "tutorials/1-SankeyMATIC.ipynb",
+    "tutorials/2-floweaver.ipynb",
+    "tutorials/2a-floweaver-advanced.ipynb"
 ]
 SPDX-FileCopyrightText = ["Bryn Pickering", "Resource Efficiency Collective contributors <https://github.com/Resource-Efficiency-Collective>"]
 SPDX-License-Identifier = "MIT"
 
 [[annotations]]
 path = [
-    "3-plotly.ipynb"
+    "tutorials/3-plotly.ipynb"
 ]
 SPDX-FileCopyrightText = "Bryn Pickering"
 SPDX-License-Identifier = "MIT"

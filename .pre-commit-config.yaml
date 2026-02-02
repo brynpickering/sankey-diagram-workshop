@@ -41,9 +41,9 @@ repos:
       - id: check-added-large-files
         args: [--enforce-all, --maxkb=100000]
       - id: trailing-whitespace
-        exclude: "(example_data|static)/.*$"
+        exclude: "(tutorials/example_data|static)/.*$"
       - id: end-of-file-fixer
-        exclude: "^(example_data|static)/.*$"
+        exclude: "^(tutorials/example_data|static)/.*$"
 
 
 ci: # https://pre-commit.ci/

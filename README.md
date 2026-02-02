@@ -8,10 +8,12 @@ SPDX-License-Identifier: MIT
 
 This workshop is broken down into 3 parts to get you familiar with building Sankey diagrams:
 
-- [Part 1 - Using the SankeyMATIC online Sankey tool](./1-SankeyMATIC.ipynb)
-- [Part 2 - `floweaver` tutorials for Sankeys in Python](./2-floweaver.ipynb)
-- [Part 2a - `floweaver` advanced tutorials for Sankeys in Python](./2a-floweaver-advanced.ipynb)
-- [Part 3 - `plotly` tutorials for Sankeys in Python](./3-plotly.ipynb)
+- [Part 1 - Using the SankeyMATIC online Sankey tool](./tutorials/1-SankeyMATIC.ipynb)
+- [Part 2 - `floweaver` tutorials for Sankeys in Python](./tutorials/2-floweaver.ipynb)
+- [Part 2a - `floweaver` advanced tutorials for Sankeys in Python](./tutorials/2a-floweaver-advanced.ipynb)
+- [Part 3 - `plotly` tutorials for Sankeys in Python](./tutorials/3-plotly.ipynb)
+
+All of these are given as Jupyter notebooks in the `tutorials` subdirectory.
 
 Much of the content of this workshop is based on prior tutorials prepared by the [Resource Efficiency Collective](https://github.com/Resource-Efficiency-Collective).
 
