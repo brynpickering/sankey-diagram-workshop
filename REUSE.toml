@@ -29,7 +29,16 @@ SPDX-License-Identifier = "MIT"
 
 [[annotations]]
 path = [
-    "tutorials/3-plotly.ipynb"
+    "tutorials/3-plotly.ipynb",
+    "tutorials/4-energy-system-flows.ipynb"
 ]
 SPDX-FileCopyrightText = "Bryn Pickering"
 SPDX-License-Identifier = "MIT"
+
+
+[[annotations]]
+path = [
+    "tutorials/example_data/world-energy-balance-2023.csv"
+]
+SPDX-FileCopyrightText = ["IEA (2025)", "Bryn Pickering"]
+SPDX-License-Identifier = "CC-BY-4.0"
