@@ -6,7 +6,7 @@
 .pixi/*
 !.pixi/config.toml
 .ipynb_checkpoints
-/outputs
+outputs/
 
 # OS-specific
 .DS_Store
